@@ -38,6 +38,6 @@ params:
         twitter:description: "this is my twitter description"
 ---
 
-This page checks single-template rendering.
+Hello world... This page checks single-template rendering.
 
 {{< haz key="page" >}}
